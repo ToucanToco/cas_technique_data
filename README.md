@@ -1,4 +1,4 @@
-# Toucan Toco : cas technique stage data
+# Toucan Toco : cas technique Data
 
 Ce repository contient l'ensemble des matériaux nécessaires pour réaliser le cas pratique pour le stage de Data Engineer de Toucan Toco.
 
