@@ -8,6 +8,8 @@ Pour réaliser ce cas technique, tu dois suivre les étapes suivantes:
 
 Pour démarrer ton travail, tu peux cliquer sur le bouton suivant : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ToucanToco/cas_technique_data/master). Il t'amènera vers une plateforme qui met à ta disposition tout l'environnement nécessaire pour travailler (ne t'inquiète pas, le chargement peut durer un certain temps car Binder doit installer l'environnement). L'environnement inclut une installation de python 3 et de ses librairies standard, ainsi que les librairies numpy et pandas qui te suffiront à répondre au besoin de ce cas.
 
+Il se peut que tu rencontres des problèmes avec l'environnement Binder, dans ce cas tu peux toujours télécharger les différents éléments et travailler en local sur ton ordinateur. Si tu rencontres des soucis n'hésite pas à nous conntacter.
+
 ### 2. Ouverture du fichier "script.ipynb"
 
 Une fois le chargement de l'environnement Binder terminé, tu arrives sur une page Jupyter où tu retrouves la liste des dossiers et fichiers de ce repository.
